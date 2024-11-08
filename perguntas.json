@@ -48,7 +48,7 @@
             {"text": "Ele é o Deus dos céus"},
             {"text": "Jeová Providenciará"}
         ],
-        "correctAnswer": 2
+        "correctAnswer": 1
     },
 
     {
@@ -59,7 +59,7 @@
             {"text": "3"},
             {"text": "8"}
         ],
-        "correctAnswer": 4
+        "correctAnswer": 3
     },
 
     {
@@ -70,9 +70,8 @@
             {"text": "30"},
             {"text": "31"}
         ],
-        "correctAnswer": 3
-    }
-],
+        "correctAnswer": 2
+    },
 
  {
         "question": "Quem sou eu? Fui muito abençoada por demostrar hospitalidade
@@ -83,5 +82,5 @@
             {"text": "A viúva de sarefá"},
             {"text": "Eva"}
         ],
-        "correctAnswer": 3
+        "correctAnswer": 2
     }

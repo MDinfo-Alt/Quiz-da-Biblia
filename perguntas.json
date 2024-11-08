@@ -1,0 +1,75 @@
+[
+    {
+        "question": "Quem foi o primeiro homem criado por Deus?",
+        "answers": [
+            {"text": "Adão"},
+            {"text": "Noé"},
+            {"text": "Moisés"},
+            {"text": "Abraão"}
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Qual é o primeiro livro da Bíblia?",
+        "answers": [
+            {"text": "Gênesis"},
+            {"text": "Êxodo"},
+            {"text": "Levítico"},
+            {"text": "Salmos"}
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Quem traiu Jesus?",
+        "answers": [
+            {"text": "Pedro"},
+            {"text": "Judas"},
+            {"text": "Paulo"},
+            {"text": "Tiago"}
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Quem foi o profeta que desafiou os profetas de Baal no Monte Carmelo?",
+        "answers": [
+            {"text": "Isaías"},
+            {"text": "Elías"},
+            {"text": "Jeremias"},
+            {"text": "Ezequiel"}
+        ],
+        "correctAnswer": 1
+    },
+
+    {
+        "question": "Qual o significado do nome de Deus?",
+        "answers": [
+            {"text": "Ele fez e faz todas as coisa"},
+            {"text": "ele faz com que venha a ser"},
+            {"text": "Ele é o Deus dos céus"},
+            {"text": "Jeová Providenciará"}
+        ],
+        "correctAnswer": 2
+    },
+
+    {
+        "question": "Quantas pessoas foram salvas na arca de Noé?",
+        "answers": [
+            {"text": "10"},
+            {"text": "5"},
+            {"text": "3"},
+            {"text": "8"}
+        ],
+        "correctAnswer": 4
+    },
+
+    {
+        "question": "Com quantos anos Jesus foi batizado?",
+        "answers": [
+            {"text": "25"},
+            {"text": "33"},
+            {"text": "30"},
+            {"text": "31"}
+        ],
+        "correctAnswer": 3
+    }
+]

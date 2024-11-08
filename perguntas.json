@@ -72,4 +72,16 @@
         ],
         "correctAnswer": 3
     }
-]
+],
+
+ {
+        "question": "Quem sou eu? Fui muito abençoada por demostrar hospitalidade
+     pelo servo do verdadeiro Deus",
+        "answers": [
+            {"text": "Jezabel"},
+            {"text": "Sara"},
+            {"text": "A viúva de sarefá"},
+            {"text": "Eva"}
+        ],
+        "correctAnswer": 3
+    }

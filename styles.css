@@ -10,11 +10,11 @@ body {
     justify-content: center;
     height: 100vh;
 
-    /* Fundo com imagens e uma camada de sobreposição */
+    /* Fundo com imagens e uma camada de sobreposição 
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
                 url('img/homem.webp') left center no-repeat, 
                 url('img/mulher.webp') right center no-repeat;
-    background-size: 50% auto; /* Cada imagem ocupa metade da largura */
+    background-size: 50% auto;  Cada imagem ocupa metade da largura */
 }
 
 /* Contêiner do quiz */
